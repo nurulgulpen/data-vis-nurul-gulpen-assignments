@@ -9,4 +9,4 @@ Data Visualisatie repo voor de opdrachten
 ![profile pic](profile_pic.jpg)
 
 #### link to my portfolio
-
+![link](https://github.com/nurulgulpen)
