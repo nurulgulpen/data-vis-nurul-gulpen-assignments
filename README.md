@@ -7,3 +7,6 @@ Data Visualisatie repo voor de opdrachten
 
 #### this is me
 ![profile pic](profile_pic.jpg)
+
+#### link to my portfolio
+
