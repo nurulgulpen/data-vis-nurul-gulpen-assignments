@@ -6,4 +6,4 @@ Data Visualisatie repo voor de opdrachten
 ### seriously
 
 #### this is me
-![profile pic] (https://github.com/nurulgulpen/data-vis-nurul-gulpen-assignments/blob/main/profile_pic.jpg)
+![profile pic](profile_pic.jpg)
