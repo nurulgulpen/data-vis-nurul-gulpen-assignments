@@ -6,4 +6,4 @@ Data Visualisatie repo voor de opdrachten
 ### seriously
 
 #### this is me
-![profile pic] (profile_pic.jpeg)
+![profile pic] (profile_pic.jpg)
